@@ -1,6 +1,6 @@
 # AAD-MINOR-JUNE
 
-A new Flutter project.
+Task 3 (MINOR PROJECT)
 
 ## Getting Started
 
